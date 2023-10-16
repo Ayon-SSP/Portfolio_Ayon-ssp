@@ -1,16 +1,15 @@
 {
   "name": "Portfolio",
-  "description": "Personal Website V2",
+  "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Roopshree <roopshree.udaiwal@gmail.com>",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Roopshree6902/chandrikadeb7.github.io"
+    "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
   ],
-  
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -59,6 +58,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
+    "react-scripts": "^5.0.1",
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
     "smooth-scroll": "^16.1.0",

@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Roopshree Udaiwal',
+  siteTitle: 'AYON | Software Engineer',
   siteDescription:
-    'Roopshree is a Web Developer, who loves learning new things and helping tech beginners.',
+    'AYON is a Web Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Roopshree Udaiwal, Roopshree6902, Mern Stack Developer, web developer, javascript, girlscript, jodhpur, GDSC, GFG',
+    'AYON KARMAKAR, Ayon-SSP, Backend Engineer, web developer, Python, javascript, girlscript, jodhpur, GDSC, GFG',
   siteUrl: 'https://roopshreeudaiwal.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Roopshree Udaiwal',
-  location: 'Jodhpur, India',
-  email: 'roopshree.udaiwal@gmail.com',
-  github: 'https://github.com/Roopshree6902',
+  name: 'AYON KARMAKAR',
+  location: 'India',
+  email: 'ayon.ssp@gmail.com',
+  github: 'https://github.com/Ayon-SSP',
   twitterHandle: '@Roopshr90263033',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Roopshree6902',
+      url: 'https://github.com/Ayon-SSP',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/',
+      url: 'https://www.linkedin.com/in/ayon-ssp/',
     },
     {
       name: 'Leetcode',
-      url: 'https://leetcode.com/Shristha/',
+      url: 'https://leetcode.com/ayon_ssp/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/itishrie_',
+      url: 'https://www.instagram.com/ayon_ssp',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Roopshr90263033',
+      url: 'https://twitter.com/AyonSsp',
     },
   ],
 

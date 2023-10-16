@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Roopshree6902/Portfolio_me/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/Ayon-SSP/Portfolio_Ayon-ssp/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio.me
@@ -9,16 +9,16 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://roopshree6902.github.io/Personal-Portfolio/" target="_blank">Version 1</a>
+  <a href="https://bento.me/ayon-ssp" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/Roopshree6902/Portfolio_me/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/Ayon-SSP/Portfolio_Ayon-ssp/blob/code/src/images/demo.png" />
 </div>
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio_me](https://github.com/Roopshree6902/Portfolio_me). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio_me](https://github.com/bchiang7/v4). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -72,4 +72,5 @@ Yes, you can fork this repo. Please give proper credit by linking back to [Portf
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
 #
