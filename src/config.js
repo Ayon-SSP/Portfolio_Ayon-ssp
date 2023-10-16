@@ -12,7 +12,7 @@ module.exports = {
   location: 'India',
   email: 'ayon.ssp@gmail.com',
   github: 'https://github.com/Ayon-SSP',
-  twitterHandle: '@Roopshr90263033',
+  twitterHandle: '@AyonSsp',
   socialMedia: [
     {
       name: 'GitHub',
