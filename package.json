@@ -2,6 +2,7 @@
   "name": "ver",
   "description": "Personal Website V4",
   "version": "1.0.0",
+  "homepage": "https://Ayon-SSP.github.io/Portfolio_Ayon-ssp",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
@@ -12,13 +13,14 @@
   ],
   "license": "MIT",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "clean": "gatsby clean"
   },
   "husky": {
     "hooks": {
