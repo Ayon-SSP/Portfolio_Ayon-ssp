@@ -1,5 +1,5 @@
 {
-  "name": "ver",
+  "name": "portfolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
   "homepage": "https://Ayon-SSP.github.io/Portfolio_Ayon-ssp",
@@ -15,7 +15,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d public",
-    "build": "gatsby build",
+    "build": "gatsby build && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
