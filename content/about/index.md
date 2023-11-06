@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'meWithBag2best.jpg'
 skills:
   - Python || C++
   - Data Structures
