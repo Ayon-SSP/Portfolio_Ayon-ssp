@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://roopshreeudaiwal.netlify.app/sitemap/sitemap-index.xml
+Host: https://roopshreeudaiwal.netlify.app
