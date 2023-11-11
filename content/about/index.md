@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'meWithBag2best.jpg'
+avatar: 'meFull.jpg'
 skills:
   - Python || C
   - OOPs
