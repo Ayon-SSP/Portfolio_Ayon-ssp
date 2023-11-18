@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Crafted a dynamic React frontend with responsive design, utilizing components, React routers, and Firebase backend API integration for seamless form content storage, showcasing a user-friendly and efficient Landing Page.
+Build to learn React with responsive design (CSS), utilizing the fundamental concepts & code standards. Firebase backend API integration.

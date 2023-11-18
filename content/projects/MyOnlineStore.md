@@ -1,13 +1,13 @@
 ---
 date: '2021-03-15'
 title: 'Flutter Apps'
-github: 'https://github.com/Roopshree6902/flutter_apps'
-external: 'https://github.com/Roopshree6902/flutter_apps'
+github: 'https://github.com/Ayon-SSP/ToDo-Flask'
+external: 'https://github.com/Ayon-SSP/ToDo-Flask'
 tech:
   - Dart
 
 company: ''
-showInProjects: false
+showInProjects: False
 ---
 
 Collection of all of my android/ios apps which i made during #flutterdevelopmentbootcamp.

@@ -1,8 +1,8 @@
 ---
-date: '1'
+date: '2022-10-01'
 title: 'Placement Roadmap'
 github: 'https://github.com/Ayon-SSP/The-SDE-Prep'
-external: 'https://github.com/Roopshree6902/Roopshree_Placement_RoadMap'
+external: 'https://github.com/Ayon-SSP/The-SDE-Prep'
 tech:
   - Data Structures
   - Algorithm
@@ -11,7 +11,7 @@ tech:
   - System Design
   - Core Subjects
 
-company: 'google'
+company: 'Faang'
 showInProjects: true
 ---
 
