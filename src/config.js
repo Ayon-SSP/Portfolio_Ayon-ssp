@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'AYON | Software Engineer',
   siteDescription:
-    'AYON is a Web Developer, who loves learning new things and helping tech beginners.',
+    'AYON is a Back End Developer, I Design and develop highly scalable apps and softwares.',
   siteKeywords:
     'AYON KARMAKAR, Ayon-SSP, Backend Engineer, web developer, Python, javascript, girlscript, jodhpur, GDSC, GFG',
-  siteUrl: 'https://roopshreeudaiwal.netlify.app/',
+  siteUrl: 'https://ayon-ssp-portfolio.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -23,17 +23,21 @@ module.exports = {
       url: 'https://www.linkedin.com/in/ayon-ssp/',
     },
     {
-      name: 'Leetcode',
-      url: 'https://leetcode.com/ayon_ssp/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/ayon_ssp',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/AyonSsp',
     },
+    {
+      name: 'Leetcode',
+      url: 'https://dev.to/ayon_ssp',
+    },
+    // {
+    //   name: 'Leetcode',
+    //   url: 'https://leetcode.com/ayon_ssp/',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/ayon_ssp',
+    // },
   ],
 
   navLinks: [

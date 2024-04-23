@@ -110,13 +110,13 @@ const ArchivePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Archive | Ayon Karmakar</title>
-        <link rel="canonical" href="https://chandrikadeb7.github.io/archive" />
+        <link rel="canonical" href="https://ayon-ssp-portfolio.netlify.app/" />
       </Helmet>
 
       <StyledMainContainer>
         <header ref={revealTitle}>
           <h1 className="big-title">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <p className="subtitle">A big list of things I've worked on</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
