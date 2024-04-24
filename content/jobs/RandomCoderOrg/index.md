@@ -6,7 +6,7 @@ range: 'Dec 2022 - Jan 2023'
 url: 'https://github.com/RandomCoderOrg'
 ---
 
-- Developed a project to run **Ubuntu on android** and achieved [~900+ stars](https://github.com/RandomCoderOrg/ubuntu-on-android) on GitHub
+- Developed a project to run **Ubuntu on android** and achieved [🏆~900+ stars](https://github.com/RandomCoderOrg/ubuntu-on-android) on GitHub
 
 ### [My Contributions](https://github.com/RandomCoderOrg/udroid-download/commits?author=Ayon-SSP)
 
