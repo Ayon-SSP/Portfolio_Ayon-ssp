@@ -63,7 +63,8 @@ const StyledProject = styled.div`
   &:focus {
     outline: 0;
     ${StyledProjectInner} {
-      transform: translateY(-5px);
+      /* transform: translateY(-5px); */
+      transform: translateY(-6px) translateX(-6px) scale(1.02);
     }
   }
 `;
