@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'meFull.jpg'
+avatar: 'me-convocation-crop.jpg'
 skills:
   - Python
   - Object Oriented design principles

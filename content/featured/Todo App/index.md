@@ -12,4 +12,6 @@ tech:
 showInProjects: true
 ---
 
-Build to learn React with responsive design (CSS), utilizing the fundamental concepts & code standards. Firebase backend API integration.
+Develop a responsive React application while focusing on core concepts and code standards. Incorporate best practices in CSS design, including a well-structured color system and adherence to modern CSS standards.
+
+

@@ -23,3 +23,11 @@
   - gatsby build
 
   - npm run deploy
+
+
+
+## Deploy
+```bash
+npm start
+npm run build
+```
